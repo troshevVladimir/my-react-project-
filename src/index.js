@@ -8,6 +8,7 @@ function Application() {
 	return (
 		<div>
 			<h1>Hello from desctop another</h1>
+			<h2>Hello from laptop </h2>
 			<Center color="red"></Center>
 		</div>
 	)
