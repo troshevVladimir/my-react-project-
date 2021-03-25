@@ -7,7 +7,7 @@ import Center from './Graph/centerPoint.js'
 function Application() {
 	return (
 		<div>
-			<Center color="red"></Center>
+			<Center></Center>
 		</div>
 	)
 }
